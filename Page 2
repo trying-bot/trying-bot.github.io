@@ -1,0 +1,254 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  
+  <title>History of Currency</title>
+  
+  <style type="text/css">
+ <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Mono+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  
+  <!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="006847710749860858">new CoolorsPaletteWidget("006847710749860858", ["0D180C","132B13","1B4915","119822","1E8300"]); </script>
+	/* CSS HEX */
+--night: #0D180Cff;
+--dark-green: #132B13ff;
+--pakistan-green: #1B4915ff;
+--forest-green: #119822ff;
+--office-green: #1E8300ff;
+
+  
+  
+  /* http://meyerweb.com/eric/tools/css/reset/ 
+		   v2.0 | 20110126
+		   License: none (public domain)
+		*/
+
+		html, body, div, span, applet, object, iframe,
+		h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+		a, abbr, acronym, address, big, cite, code,
+		del, dfn, em, img, ins, kbd, q, s, samp,
+		small, strike, strong, sub, sup, tt, var,
+		b, u, i, center,
+		dl, dt, dd, ol, ul, li,
+		fieldset, form, label, legend,
+		table, caption, tbody, tfoot, thead, tr, th, td,
+		article, aside, canvas, details, embed, 
+		figure, figcaption, footer, header, hgroup, 
+		menu, nav, output, ruby, section, summary,
+		time, mark, audio, video {
+			margin: 0;
+			padding: 0;
+			border: 0;
+			font-size: 100%;
+			font: inherit;
+			vertical-align: baseline;
+		}
+		/* HTML5 display-role reset for older browsers */
+		article, aside, details, figcaption, figure, 
+		footer, header, hgroup, menu, nav, section {
+			display: block;
+		}
+		body {
+			line-height: 1;
+		}
+		ol, ul {
+			list-style: none;
+		}
+		blockquote, q {
+			quotes: none;
+		}
+		blockquote:before, blockquote:after,
+		q:before, q:after {
+			content: '';
+			content: none;
+		}
+		table {
+			border-collapse: collapse;
+			border-spacing: 0;
+		}
+		
+		/*++++Whitespace Styles Here++++*/
+		#wrapper{
+				width: 85%;
+				margin: 0 auto;
+				background-color: #ffffffff;
+		}
+		
+			header{
+			text-align:center;
+			padding: 1%;
+			
+		}
+		
+		
+		#main-content{
+				width: 56%;
+				float: left;
+				padding: 2%;
+		}
+		
+		#sidebar{
+				width: 36%;
+				float: left;
+				padding: 2%;
+		}
+
+		footer{
+				clear: left;
+		
+		}
+		
+		
+		
+		/*++++++Type Styles+++++*/
+		/*
+			font-family: 'Rubik', sans-serif;
+			font-family: 'Rubik Mono One', sans-serif;
+			font-family: 'Roboto Condensed', sans-serif;
+			font-family: 'Roboto', sans-serif;
+		*/
+		body{
+			font-size: 100%;
+			font-family: 'Roboto ', sans-serif;
+			line-height:  130%;
+			background-color:  #0D180Cff;
+		}
+		figcaption{
+		font-
+		}
+		
+		
+		p{
+			font-size:  1em;
+			margin: 2% 0;
+			font-family: serif
+		}
+		
+		h1{
+			font-size:  2em;
+			font-family: "Rubik Mono One", system-ui;
+			color:#1E8300ff;
+			
+			
+		}
+		
+		h2{
+			font-family: "Rubik", system-ui;
+			font-size: 1.5em;
+			margin: 2% 0;
+			color: #119822ff;
+		}
+		
+		.nav-item{
+			display:inline-block;
+			margin-left: 7%;
+			font-family: "Lato", sans-serif;
+		}
+		
+		li.nav-item a:link{
+			color:#1B4915ff;
+		}
+		
+		li.nav-item a:visited{
+			color:#1B4915ff;
+		}
+		
+		li.nav-item a:hover{
+			color: blue
+		}
+		
+		li.nav-item a:active{
+			color: orange
+		}
+	</style>
+  
+  <!--[ if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+ </head> 
+ 
+ <body>
+	<div id="wrapper">
+		<header>
+			<h1> History of Currency</h1>
+			<p> Introducing My 5 page Website by Abdirahman Osman,<br> I will be showcasing my programming skills by making a website.
+			</p>
+			<hr></hr>
+		</header>
+		<nav>
+				<figure>
+					<ul> 
+						<li class="nav-item"><a href= "Multi-functional 5 Page Pg.html">Overview</a>	</li>
+						<li class="nav-item"><a href= "Multi-functional pg 3.html">Evolution of money</a>	</li> 
+						<li class="nav-item"><a href= "Multi-functional pg 4.html">Future of money</a>	</li>
+						<li class="nav-item"><a href= "Multi-functional pg 5.html">Money; Advancement or Demise?</a>	</li>
+					</ul>
+				</figure>
+			</nav>
+		<div id="main-content">
+			<figure>
+
+			<img src="data:image/jpeg;base64,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">
+	
+			<figcaption><small>The British Pound is one of the oldest currencies still in use today</small></figcaption>
+			</figure>
+		<article>
+				<h2> When and where did money begin? </h2>
+				<p>
+				
+				The earliest evidence of money comes from around 3,000 BC in ancient Mesopotamia (modern-day Middle East). Citizens would draw agricultural symbols on clay tablets to represent debts. This is the first time in history we’re aware of people using a symbolic representation of value rather than a physical exchange, as in a barter market system.
+				
+				</p>
+			
+			</article>
+			
+			<article>
+		
+			<h2> Coins and Currency </h2>
+			<p>
+			The first metal coins date back to the 7th century BCE in Lydia (modern Turkey) and China. In China, metal coins were made of bronze and shaped like farming tools. In Lydia, coins were made of an alloy of gold and silver called electrum. Lydian staters were the first coins to be officially issued by a government body. Early iterations of coins were also used by ancient Greeks, starting in the late 7th century BC.
+			
+			</p>
+			</article>
+		</div><!--close main div-->
+		<div id ="sidebar">
+			<article>
+			<h2>Banking </h2>
+		 
+			<p>
+			
+			Many of these banking operations originated in regions of Italy, including Venice, Florence and Rome. Over time, these services converged with the onset of modern banks.
+
+			In the United States, a national bank began with a plan by Alexander Hamilton, the first Secretary of State. He thought a national bank would help stabilize the nation’s credit. The first bank in the U.S., The Bank of the United States, was established in 1791.
+
+			</p>
+		 
+			</article>
+			
+			<article>
+			<img src="credit-card.jpeg">
+			<h2> Credit and Debit Cards </h2>
+			
+			<p>
+			
+			When it comes to convenience, credit cards and debit cards may be some of the most popular choices. 
+
+			Credit cards allow lenders to set a credit limit on your card, so you can spend up to a certain amount before you have to start paying it back to continue using your card. The history of credit cards in America goes back to the 1950s when Diners Club issued the first charge cards.  
+
+			A debit card, on the other hand, holds a set amount of money from your bank account, which decreases with each purchase you make. Debit cards did not make their debut in America until after credit cards. Some point to the Bank of Delaware’s debit card pilot program in 1966 as the first time debit cards were used in America. 
+			</p>
+			
+			</article>
+		</div><!--close sidebar div-->
+		
+		
+	 <footer><p><small>Copyright 2024</small></p> 
+	 
+	 </footer>
+ </div><!--close wrapper div-->
+ </body>
+ </html>
